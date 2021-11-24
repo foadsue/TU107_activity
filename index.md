@@ -1,24 +1,25 @@
 ## Digital Profile
-
+*wishing this digital cv help you know more about me! :)*
 
 
 ### Personal Information
 ```markdown
-
 นางสาวสิรินธร ผาไชย 
 รหัศนักศึกษา 6424650023
 วิทยาลัยสหวิทยาการ สาขาวิทยาศาสตร์และนวัตกรรมข้อมูล ปี 1
 
-ช่องทางการติดต่อ
-sirintorn.pha@dome.tu.ac.th
 ```
+for more detail about my resume click [sirintorn's portfolio](https://drive.google.com/file/d/143nojI2KND_-JcSeSOI3UdfXEcqR8-5G/view?usp=sharing)
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+### Personal Interests
+```
+1. Music
+2. cartoon
+3. Game (RPG games is the most interested me)
+4. Drawing and Editing
+5. a littlebit of coding(but not an influencer)
+```
+I also made an playlist for recommended each type of music on [spotify](https://open.spotify.com/playlist/2i3miRQPPAYEepR0WikcdE?si=63e9fe7ea88d4897)
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/foadsue/TU107_activity/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Contact
+> gmail: sirintorn.pha@dome.tu.ac.th
