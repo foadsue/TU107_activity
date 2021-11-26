@@ -10,7 +10,15 @@
 
 ```
 for more detail about my resume click [sirintorn's portfolio](https://drive.google.com/file/d/143nojI2KND_-JcSeSOI3UdfXEcqR8-5G/view?usp=sharing)
-
+### Education
+```
+- Junior high school : Piyamaharachalai School(GPA 3.98/4.00)
+- Senior high scool : Princess Chulaborn Science High School Mukdahan with gpa 3.77/4.00
+```
+### Key Skills
+```
+- Programming Languages: Python, C
+```
 ### Personal Interests
 ```
 1. Music
